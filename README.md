@@ -1,2 +1,7 @@
-# datatime
-Business website and app gallery
+# datatime llc
+*Business website and app gallery*
+## Objective
+
+## Workplan
+
+## Resources
